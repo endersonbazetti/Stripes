@@ -1,0 +1,30 @@
+.Login_OutterBox {
+	background-color:#EEEEEE;
+	border-color: #CCCCCC;
+	border-style: double;
+	padding: 15px;
+	width: 300px;
+}
+
+.Login_UsernameBox, .Login_PasswordBox {
+	padding: 3px;
+	width: 275px;
+}
+
+.Login_ButtonBox {
+	padding-top: 10px;
+	width: 275px;
+}
+
+.Login_UsernameInput, .Login_PasswordInput {
+	float: right;
+}
+
+.Login_ButtonBox {
+	text-align: center;
+}
+
+.Login_Button {
+	padding-top: 10px;
+	width: 100px;
+}
